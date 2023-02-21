@@ -1,0 +1,41 @@
+
+.caja1{
+    width:100px;
+    height: 43px;
+    color: black;
+    border: solid 5px black;
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+    background-color: grey;
+    /* padding:5px;
+    margin:5px;
+    background-color: #000000;
+    border: solid 1px red;
+    color: white; */
+
+}
+
+.caja2{
+    width:100px;
+    height: 43px;
+    color: black;
+    border: solid 5px black;
+    padding: 10px;
+    margin: 40px;
+    text-align:left;
+    background-color: grey;
+    color
+    
+}
+
+.caja3{
+    width:100px;
+    height: 50px;
+    color: black;
+    border: solid 5px black;
+    padding: 10px;
+    margin: 40px;
+    text-align: right;
+    background-color: grey;
+}
